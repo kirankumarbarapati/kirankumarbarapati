@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirankumarbarapati
 - 👀 I’m interested in Web Developing & AI
-- 🌱 I’m currently learning about AI.
+- 🌱 I’m currently learning about Artificial Intelligence.
 - 💞️ I’m looking to collaborate on LinkedIn.
 - 📫 Reach me by www.linkedin.com/in/kiran-kumar-barapati
